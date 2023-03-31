@@ -28,7 +28,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=CarolSilv&show_icons=true" />
 </picture>
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6cee20dc775e76f63288e644dda6b165.gif" margin-left="25%" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6cee20dc775e76f63288e644dda6b165.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
 </div>
 
 ## Hard Skills
