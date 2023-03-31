@@ -1,7 +1,7 @@
 ## 😊 Olá! Bem vindes ao meu perfil. 
 
 - 👩🏾‍💻 Dev Fullstack 
-- 📚 Estudando VueJS
+- 📚 Estudando Laravel
 
 <div>
 <a href="https://github.com/CarolSilv">
