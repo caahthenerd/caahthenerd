@@ -1,6 +1,6 @@
 ## 😊 Olá! Bem vindes ao meu perfil. 
 
-- 👩🏾‍💻 Dev Fullstack 
+- 👩🏾‍💻 Dev BackEnd 
 - 📚 Estudando Laravel
 
 <div>
