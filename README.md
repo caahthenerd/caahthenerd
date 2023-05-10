@@ -1,7 +1,6 @@
 ## 😊 Olá! Bem vindes ao meu perfil. 
 
 - 👩🏾‍💻 Dev BackEnd 
-- 📚 Estudando Laravel
 
 <div>
 <a href="https://github.com/CarolSilv">
