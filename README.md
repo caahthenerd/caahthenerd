@@ -1,4 +1,4 @@
-## 😊 Olá! Bem vindes ao meu perfil. 
+## 😊 Olá!
 
 - 👩🏾‍💻 Dev BackEnd 
 
