@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">👩🏾‍💻Minhas Hadskills incluem:</h4>
+<h4 align="left">👩🏾‍💻Minhas Hard skills incluem:</h4>
 
 ###
 
