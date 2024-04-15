@@ -60,7 +60,7 @@
 
 ###
 
-<h4 align="left">👩🏾‍💻Pretendo aprender:</h4>
+<h4 align="left">👩🏾‍💻Buscando aprender:</h4>
 
 ###
 
@@ -86,36 +86,15 @@
 
 ###
 
-###
-
-<div>
-<a href="https://github.com/CarolSilv">
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=CarolSilv&show_icons=true&theme=radical&locale=pt-br&count_private=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=CarolSilv&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=CarolSilv&show_icons=true" />
-</picture>
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolSilv&theme=radical&locale=pt-br&layout=compact&count_private=true&include_all_commits=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=CarolSilv&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=CarolSilv&show_icons=true" />
-</picture>
+<h3 align="center">🔥 Estatísticas :</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CarolSilv&locale=pt-BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<picture>
+
+###
+
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolSilv/CarolSilv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolSilv/CarolSilv/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarolSilv/CarolSilv/output/github-contribution-grid-snake.svg">
